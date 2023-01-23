@@ -8,20 +8,19 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72651891/162167242-42c0845c-93f0-4f7e-a649-52b78b59a1da.gif" alt="animated" />
+<img src="https://64.media.tumblr.com/f64a06b76d7d7d33a9fbc24307f18808/5254df45ab7bc950-e8/s540x810/c8d80fee97ed3bbaab9f7da3300a8eab5b7d7a06.gif" alt="animated" />
 </p>
 
-I'm Lukas from Indonesia, a machine learning developer and also a data analyst. I really like working with python to simply do an automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/lukas-purba-w/ and my medium at https://medium.com/@lukaspurbaw
+I'm Rifqi from Indonesia, a machine learning developer and also a data analyst. I really like working with python to simply do an network automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/muhrifqi/  
 
-☕ Buy me a coffee  [ko-fi.com/lukaspurbaw](ko-fi.com/lukaspurbaw)  
-🍣 Trakteer.id [trakteer.id/lukaspurbaw](https://trakteer.id/lukaspurbaw)
+☕ Buy me a coffee  [ko-fi.com/muhrifqi17](ko-fi.com/muhrifqi17) 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lukaspurbaw)
 
 ### 👨‍💻 Little About Me
 * 👾 Interested in Data Science and Machine Learning   
 * 🐍 Python and Jupyter Notebook User
-* 📚 Reader and a Novice Writer
+* 📚 Reader
 
 ### ⚔️ Projects Done
 * 📐 [Data Analytics Pipeline with Clustering](https://github.com/LukasPurbaW/Data-Analytics-Workflow)
