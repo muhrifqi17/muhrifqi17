@@ -23,7 +23,7 @@ I'm Rifqi from Indonesia, a machine learning developer and also a data analyst. 
 * 📚 Reader
 
 ### ⚔️ Projects Done
-* #️⃣ [Script Pipeline Using Logstash for SNMP and Log]()
+* #️⃣ [Dashboard ELK stack and Report Log To Telegram]()
 * 🤖 [Automation SSH for colect log with Netmiko]()
 * 😷 [Mask Detection]()
 
