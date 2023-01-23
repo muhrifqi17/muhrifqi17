@@ -23,11 +23,12 @@ I'm Rifqi from Indonesia, a machine learning developer and also a data analyst. 
 * 📚 Reader
 
 ### ⚔️ Projects Done
-* 📐 [Data Analytics Pipeline with Clustering](https://github.com/LukasPurbaW/Data-Analytics-Workflow)
-* ✏️ [Recommendation System using Apriori](https://github.com/LukasPurbaW/Item_Recommendation)
-* 💯 [10 Days of Deep Learning](https://github.com/LukasPurbaW/100_Days_of_Deep_Learning)
+* #️⃣ [Script Pipeline Using Logstash for SNMP and Log]()
+* 🤖 [Automation SSH for colect log with Netmiko]()
+* 😷 [Mask Detection]()
 
 ### 🚧 On-Going Projects
+
 * 💳 Credit Card Fraud Detection
 * 🕵️ Crowd Detection using Mask-RCNN
 * 🧬 Data Science with Neural Network Pipeline
@@ -42,5 +43,5 @@ I'm Rifqi from Indonesia, a machine learning developer and also a data analyst. 
 * <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15"/> Tensorflow </a>
 
 ## 📈 Github Stats
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukasPurbaW&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Lukas' GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukasPurbaW&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Lukas' Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhrifqi17&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Lukas' GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhrifqi17&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Lukas' Most Used Language">
 | ------------- | ------------- |  
