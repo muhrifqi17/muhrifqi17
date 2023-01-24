@@ -43,5 +43,5 @@ I'm Rifqi from Indonesia, a machine learning developer and also a data analyst. 
 * <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15"/> Tensorflow </a>
 
 ## 📈 Github Stats
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhrifqi17&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Lukas' GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhrifqi17&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Lukas' Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhrifqi17&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Rifqi' GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhrifqi17&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Rifqi' Most Used Language">
 | ------------- | ------------- |  
