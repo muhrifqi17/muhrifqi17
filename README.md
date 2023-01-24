@@ -23,7 +23,7 @@ I'm Rifqi from Indonesia, a machine learning developer and also a data analyst. 
 * 📚 Reader
 
 ### ⚔️ Projects Done
-* #️⃣ [Dashboard ELK stack and Report Log To Telegram]()
+* #️⃣ [Dashboard ELK stack and Report Log To Telegram](https://github.com/muhrifqi17/ELK-JARVIS)
 * 🤖 [Automation SSH for colect log with Netmiko]()
 * 😷 [Mask Detection]()
 
