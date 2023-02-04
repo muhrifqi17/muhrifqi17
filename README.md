@@ -33,7 +33,7 @@ I'm Rifqi from Indonesia, data analyst and also a machine learning developer. I 
 * 🧬 Data Science with Neural Network Pipeline
 * 🍹 Wine Quality Classification
 * 🍪 Good Rating Chocolate Classification
-* 💯 [100 Days of Deep Learning](https://github.com/LukasPurbaW/100_Days_of_Deep_Learning)
+* 💯 [100 Days of Deep Learning]()
 
 
 ### 🛠️ Languages and Tools:
