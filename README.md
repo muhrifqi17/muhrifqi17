@@ -12,7 +12,7 @@
 
 I'm Rifqi from Indonesia, data analyst and now i trying to study abouth a machine learning. I really like working with python to simply do an network automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/muhrifqi/  
 
-☕ Buy me a coffee  [ko-fi.com/muhrifqi17](ko-fi.com/muhrifqi17) 
+☕ Buy me a coffee  [ko-fi.com/muhrifqi17]([ko-fi.com/muhrifqi17](https://ko-fi.com/muhrifqi17)) 
 
 
 ### 👨‍💻 Little About Me
