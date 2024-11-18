@@ -14,7 +14,6 @@ I'm Rifqi from Indonesia, data analyst and now i trying to study abouth a machin
 
 ☕ Buy me a coffee  [ko-fi.com/muhrifqi17](ko-fi.com/muhrifqi17) 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lukaspurbaw)
 
 ### 👨‍💻 Little About Me
 * 👾 Interested in Data Science and Machine Learning   
