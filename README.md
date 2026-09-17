@@ -11,7 +11,6 @@
 
 I'm Rifqi from Indonesia. I really like working with python to simply do an network automation or create a machine learning software and learning about security.
 
-☕ Buy me a coffee  [ko-fi.com/muhrifqi17](https://ko-fi.com/muhrifqi17) 
 
 
 ### 👨‍💻 Little About Me
@@ -20,7 +19,7 @@ I'm Rifqi from Indonesia. I really like working with python to simply do an netw
 * 📚 Reader
 
 ### ⚔️ Projects Done
-* #️⃣ [Dashboard ELK stack and Report Log To Telegram](https://github.com/muhrifqi17/ELK-JARVIS)
+* #️⃣ [Dashboard ELK stack and Report Log To Telegram]()
 * 🤖 [Automation SSH for colect log with Paramiko]()
 * 😷 [Mask Detection]()
 
